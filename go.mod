@@ -1,3 +1,3 @@
-module booking-app
+module go-booking
 
 go 1.20
